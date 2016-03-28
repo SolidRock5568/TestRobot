@@ -22,10 +22,8 @@ DriveBase::DriveBase() : Subsystem("DriveBase")
 	}
 }
 
-void DriveBase::Stop()
-{
 
-}
+
 
 
 

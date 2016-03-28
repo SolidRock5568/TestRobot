@@ -22,7 +22,7 @@ public:
 	Encoder * leftEncoder;
 
 	DriveBase();
-	void Stop();
+
 
 	};
 
